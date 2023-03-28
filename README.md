@@ -4,13 +4,17 @@ WordPress enumeration is the process of gathering information about a WordPress 
 ![Pari-Malam_20230310_132739](https://user-images.githubusercontent.com/25004320/224232501-03fca918-afbf-46e7-a09b-b1fd9f021f21.png)
 
 # Python Version:
-3.8
+- 3.8
 
 # Get start with:
-pip install -r requirements.txt
 
-# Usage:
-python enumerate.py list.txt (Include HTTP/S)
+- pip install -r requirements.txt
+- python scanner.py
 
 # Footprints Notes:
-By using this tool, you agree that you are using it for educational purposes only and that you will not use it for any illegal activity. You also agree to bear all risks associated with the use of this tool. I will not be responsible for direct or indirect damage caused by the use of this tool.
+
+- By using this tool, you agree that you are using it for educational purposes only and that you will not use it for any illegal activity. You also agree to bear all risks associated with the use of this tool. I will not be responsible for direct or indirect damage caused by the use of this tool.
+
+# Author:
+- Pari Malam
+- Contacts: https://telegram.me/SurpriseMTFK
