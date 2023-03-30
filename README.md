@@ -12,9 +12,11 @@ WordPress enumeration is the process of gathering information about a WordPress 
 - python scanner.py
 
 # Footprints Notes:
-
 - By using this tool, you agree that you are using it for educational purposes only and that you will not use it for any illegal activity. You also agree to bear all risks associated with the use of this tool. I will not be responsible for direct or indirect damage caused by the use of this tool.
 
 # Author:
 - Pari Malam
-- Contacts: https://telegram.me/SurpriseMTFK
+
+# Contacts:
+[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/SurpriseMTFK)
+[![Forum](https://img.shields.io/badge/-Forum-red)](https://dragonforce.io)
