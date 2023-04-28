@@ -1,0 +1,21 @@
+.++==========[Pari Malam]==========++.
+URLs: https://www.exoclick.com
+WordPress Version: 5.9
+Installed Plugins: 
+Actived Themes: exoclick
+.++==========[Pari Malam]==========++.
+
+.++==========[Pari Malam]==========++.
+URLs: https://www.geeksforgeeks.org
+WordPress Version: 4.9.8
+Installed Plugins: 
+Actived Themes: iconic-one
+.++==========[Pari Malam]==========++.
+
+.++==========[Pari Malam]==========++.
+URLs: https://www.movie2free.com
+WordPress Version: 6.2
+Installed Plugins: 
+Actived Themes: next
+.++==========[Pari Malam]==========++.
+
