@@ -1,10 +1,11 @@
 ## Wordpress Enumeration
 WordPress enumeration is the process of gathering information about a WordPress website, including its version, plugins, and themes. This information can be useful for several purposes, including vulnerability assessment, penetration testing, and website analysis.
 ## Screenshot:
-![Pari-Malam_20230310_132739](https://user-images.githubusercontent.com/25004320/224232501-03fca918-afbf-46e7-a09b-b1fd9f021f21.png)
+![Screenshot_1](https://user-images.githubusercontent.com/25004320/235063221-83d95d41-f333-493b-a21c-8a60fdfbbe70.png)
+![Screenshot_3](https://user-images.githubusercontent.com/25004320/235063233-ea9a099b-d685-422a-a37e-51dd09c4bdd0.png)
 ## Requirements
 - Python3.7+
-## Supported Operating System
+## Operating System
 - Linuxer
 - Wingays
 ## Get start with
