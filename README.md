@@ -10,7 +10,7 @@ WordPress enumeration is the process of gathering information about a WordPress 
 - Wingays
 ## Get start with
 - pip/pip3 install -r requirements.txt
-- python/python3 joomla.py
+- python/python3 enumerate.py
 ## Footprints Notes
 - By using this tool, you agree that you are using it for educational purposes only and that you will not use it for any illegal activity. You also agree to bear all risks associated with the use of this tool. I will not be responsible for direct or indirect damage caused by the use of this tool.
 ## Author
