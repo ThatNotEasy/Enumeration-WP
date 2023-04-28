@@ -5,7 +5,7 @@ WordPress enumeration is the process of gathering information about a WordPress 
 ![Screenshot_3](https://user-images.githubusercontent.com/25004320/235063233-ea9a099b-d685-422a-a37e-51dd09c4bdd0.png)
 ## Requirements
 - Python3.7+
-## Operating System
+## Supported Os
 - Linuxer
 - Wingays
 ## Get start with
