@@ -1,6 +1,6 @@
 # Author: Pari Malam
 
-import requests, os, sys, colorama, urllib3, concurrent.futures, signal
+import requests, os, sys, colorama, urllib3, concurrent.futures, signal, re
 from sys import stdout
 from colorama import Fore, init
 from concurrent.futures import ThreadPoolExecutor
